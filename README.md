@@ -1,6 +1,6 @@
 # Meganraj S - DevOps Portfolio
 
-![Portfolio Preview](https://via.placeholder.com/1200x600.png?text=Portfolio+Website+Preview)
+![Portfolio Preview](https://meganraj-s-portfolio.netlify.app/)
 
 Welcome to my personal portfolio website! This project showcases my skills as an aspiring DevOps Engineer and Frontend Developer. It highlights my technical expertise, projects, and provides a way to connect with me. The site is built with modern web technologies and deployed using AWS with CI/CD pipelines.
 
