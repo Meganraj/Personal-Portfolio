@@ -39,13 +39,6 @@ The website is fully responsive, interactive, and designed with a clean, modern 
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- A modern web browser (Chrome, Firefox, etc.)
-- Basic knowledge of HTML, CSS, and JavaScript
-- (Optional) AWS account for deployment
-
 ### Installation
 1. **Clone the Repository**
    ```bash
